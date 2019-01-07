@@ -1,0 +1,26 @@
+<annotation>
+	<folder>obj</folder>
+	<filename>ios.jpg</filename>
+	<path>/Users/mikel/Documents/Projects/darknet/build/darknet/x64/data/obj/ios.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wound</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>242</ymin>
+			<xmax>595</xmax>
+			<ymax>967</ymax>
+		</bndbox>
+	</object>
+</annotation>
