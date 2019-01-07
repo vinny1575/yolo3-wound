@@ -1,0 +1,26 @@
+<annotation>
+	<folder>obj</folder>
+	<filename>knee.jpg</filename>
+	<path>/Users/mikel/Documents/Projects/darknet/build/darknet/x64/data/obj/knee.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>493</width>
+		<height>335</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wound</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>28</ymin>
+			<xmax>372</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,4 @@
+data/images/ios.jpg 260,242,595,967,0
+data/images/foot.jpg 49,67,145,148,0
+data/images/knee.jpg 194,28,372,322,0
+data/images/peri.jpg 164,62,312,175,0
